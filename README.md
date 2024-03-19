@@ -58,7 +58,7 @@ Check out our [website](https://yuzu-emu.org/) for the latest news on exciting f
 
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
+Most of the development happens on GitHub. It's also where [our central repository](https://github.com/bobbleblob123/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
 
 If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
@@ -67,8 +67,8 @@ If you want to contribute to the user interface translation project, please chec
 
 ## Building
 
-* __Windows__: [Windows Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
+* __Windows__: [Windows Build](https://github.com/bobbleblob123/yuzu/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://github.com/bobbleblob123/yuzu/wiki/Building-For-Linux)
 
 ## Download
 
