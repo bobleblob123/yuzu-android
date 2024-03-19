@@ -1,9 +1,9 @@
 | Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
-| [12461](https://github.com/yuzu-emu/yuzu//pull/12461) | [`a84e8e26f`](https://github.com/yuzu-emu/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
-| [13018](https://github.com/yuzu-emu/yuzu//pull/13018) | [`01cbc638a`](https://github.com/yuzu-emu/yuzu//pull/13018/files) | am: rewrite part 2 | [liamwhite](https://github.com/liamwhite/) | Yes |
-| [13174](https://github.com/yuzu-emu/yuzu//pull/13174) | [`7d1284826`](https://github.com/yuzu-emu/yuzu//pull/13174/files) | glue/time: Remove global variables | [FearlessTobi](https://github.com/FearlessTobi/) | Yes |
-| [13177](https://github.com/yuzu-emu/yuzu//pull/13177) | [`f5cc94f05`](https://github.com/yuzu-emu/yuzu//pull/13177/files) | vfs: misc performance improvements | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [12461](https://github.com/bobbleblob123/yuzu//pull/12461) | [`a84e8e26f`](https://github.com/bobbleblob123/yuzu//pull/12461/files) | Rework Nvdec and VIC to fix out-of-order videos, and speed up decoding. | [Kelebek1](https://github.com/Kelebek1/) | Yes |
+| [13018](https://github.com/bobbleblob123/yuzu//pull/13018) | [`01cbc638a`](https://github.com/bobbleblob123/yuzu//pull/13018/files) | am: rewrite part 2 | [liamwhite](https://github.com/liamwhite/) | Yes |
+| [13174](https://github.com/bobbleblob123/yuzu//pull/13174) | [`7d1284826`](https://github.com/bobbleblob123/yuzu//pull/13174/files) | glue/time: Remove global variables | [FearlessTobi](https://github.com/FearlessTobi/) | Yes |
+| [13177](https://github.com/bobbleblob123/yuzu//pull/13177) | [`f5cc94f05`](https://github.com/bobbleblob123/yuzu//pull/13177/files) | vfs: misc performance improvements | [liamwhite](https://github.com/liamwhite/) | Yes |
 
 
 End of merge log. You can find the original README.md below the break.
@@ -17,7 +17,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/bobbleblob123/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
   <br>
   <b>yuzu</b>
   <br>
@@ -60,7 +60,7 @@ Check out our [website](https://yuzu-emu.org/) for the latest news on exciting f
 
 Most of the development happens on GitHub. It's also where [our central repository](https://github.com/bobbleblob123/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
+If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/bobbleblob123/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
 
 If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
