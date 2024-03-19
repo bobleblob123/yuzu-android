@@ -50,7 +50,7 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 ## Compatibility
 
-The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
+The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://web.archive.org/web/20240304180921/https://yuzu-emu.org/help/quickstart/#hardware-requirements).
 
 For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
 
@@ -60,7 +60,7 @@ Check out our [website](https://yuzu-emu.org/) for the latest news on exciting f
 
 Most of the development happens on GitHub. It's also where [our central repository](https://github.com/bobleblob123/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/bobleblob123/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
+If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/bobleblob123/yuzu/wiki/Contributing) and [Developer Information](https://github.com/bobleblob123/yuzu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
 
 If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
@@ -72,7 +72,7 @@ If you want to contribute to the user interface translation project, please chec
 
 ## Download
 
-You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
+You can download the latest releases automatically via the installer on our [downloads](https://web.archive.org/web/20240304180921/https://yuzu-emu.org/downloads) page.
 
 
 ## Licensing
